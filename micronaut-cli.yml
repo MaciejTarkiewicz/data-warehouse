@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.warehouse
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, data, data-mongodb-reactive, gradle, http-client, jackson-databind, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, mongo-reactive, netty-server, reactor, reactor-http-client, readme, shade, spock, testcontainers, yaml]
